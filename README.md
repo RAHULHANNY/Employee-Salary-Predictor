@@ -7,12 +7,15 @@ SalarySense provides a clean, intuitive interface for users to input employee de
 1. Interactive Prediction Tool
 Users can adjust sliders and select options for Age, Job Title, Years of Experience, Gender, and Education Level to generate a salary estimate.
 Markdown
-![Prediction UI](  )
-2. Instant Salary Output
+![Prediction UI]
+![WhatsApp Image 2025-07-20 at 19 20 38_c8f69e12](https://github.com/user-attachments/assets/c3514d6f-d126-4496-b0b7-cb2435a55a47)
+
+3. Instant Salary Output
 The model instantly computes and displays the predicted salary based on the inputs.
 Markdown
-![Prediction Output](  )
-3. In-Depth Model Insights
+![Prediction Output](![WhatsApp Image 2025-07-20 at 19 20 56_bbdd2f50](https://github.com/user-attachments/assets/5e4a84a6-09ff-4e66-89c5-fdd4e7bd6bf1)
+)
+4. In-Depth Model Insights
 The application includes several visualizations to understand the model's behavior:
 Feature Importance: Shows the impact (coefficient) of each feature on the salary prediction.
 Actual vs. Predicted Plot: A scatter plot to visualize the model's accuracy.
@@ -20,10 +23,12 @@ Residual Plot: Helps diagnose the variance of errors in the model.
 
 Markdown
 
-![Feature Importance](  )
+![Feature Importance](![WhatsApp Image 2025-07-20 at 19 21 18_4335f7bc](https://github.com/user-attachments/assets/221ffdca-f1bd-42b0-8d1f-22dad47dd64c)
+)
 ![Actual vs Predicted](  
 Model & Performance
 The prediction is powered by a Linear Regression model trained on key employee attributes. The model demonstrates high accuracy and reliability, as shown by the performance metrics below:
+![WhatsApp Image 2025-07-20 at 19 21 32_7412a9b5](https://github.com/user-attachments/assets/d5d8dbab-1613-4ce5-b7c3-bed5e5f672dd)
 
 Metric	Value
 R-squared (R²)	0.9685
